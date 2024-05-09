@@ -1,0 +1,27 @@
+{
+  "name": "front-test-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lgarzonr/front-test-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lgarzonr/front-test-server/issues"
+  },
+  "homepage": "https://github.com/lgarzonr/front-test-server#readme",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
